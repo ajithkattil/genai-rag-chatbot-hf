@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+openai
+gradio
+pymupdf
+pypdf
+faiss-cpu
+sentence-transformers
+python-dotenv
