@@ -8,7 +8,7 @@ sdk_version: "4.26.0"
 app_file: app.py
 pinned: false
 ---
-
+# https://huggingface.co/spaces/cltajith/genai-rag-chatbot-hf ( This project/repository has been made private due to the cost incurred from OpenAI API inference calls)
 # GenAI RAG Chatbot
 
 ## GenAI RAG Chatbot – Resume Q&A with LangChain + OpenAI + Gradio
