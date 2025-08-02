@@ -8,11 +8,11 @@ sdk_version: "4.26.0"
 app_file: app.py
 pinned: false
 ---
-# https://huggingface.co/spaces/cltajith/genai-rag-chatbot-hf ( This project/repository has been made private due to the cost incurred from OpenAI API inference calls)
+
 # GenAI RAG Chatbot
 
 ## GenAI RAG Chatbot – Resume Q&A with LangChain + OpenAI + Gradio
-
+### https://huggingface.co/spaces/cltajith/genai-rag-chatbot-hf ( This project/repository has been made private due to the cost incurred from OpenAI API inference calls)
 This is a Retrieval-Augmented Generation (RAG) chatbot that lets you ask questions about your own documents (like a resume PDF) using OpenAI’s GPT-3.5 Turbo and LangChain. It processes a PDF, embeds it using OpenAI Embeddings, stores it in a FAISS vector index, and serves a local Gradio web app for conversational querying.
 
 ##  Features
